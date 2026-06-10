@@ -41,3 +41,28 @@ My interests include Full-stack Web Development, Backend System Design, RESTful 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVietQuan2004&repo=luan_van_back_end&theme=merko" />
 </a>
+
+<a href="https://github.com/NguyenVietQuan2004/web-cms-server">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVietQuan2004&repo=web-cms-server&theme=merko" />
+</a>
+
+<a href="https://github.com/NguyenVietQuan2004/web-cms-client">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVietQuan2004&repo=web-cms-client&theme=merko" />
+</a>
+
+<a href="https://github.com/NguyenVietQuan2004/web-cms-store">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVietQuan2004&repo=web-cms-store&theme=merko" />
+</a>
+
+<a href="https://github.com/NguyenVietQuan2004/e-commerce-be">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVietQuan2004&repo=e-commerce-be&theme=merko" />
+</a>
+
+<a href="https://github.com/NguyenVietQuan2004/e-commerce-fe">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVietQuan2004&repo=e-commerce-fe&theme=merko" />
+</a>
