@@ -66,3 +66,13 @@ My interests include Full-stack Web Development, Backend System Design, RESTful 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVietQuan2004&repo=e-commerce-fe&theme=merko" />
 </a>
+
+<a href="https://github.com/NguyenVietQuan2004/duchuy-Accounting">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVietQuan2004&repo=duchuy-Accounting&theme=merko" />
+</a>
+
+<a href="https://github.com/NguyenVietQuan2004/duc-huy-neo">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVietQuan2004&repo=duc-huy-neo&theme=merko" />
+</a>
