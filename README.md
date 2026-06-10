@@ -15,10 +15,9 @@ My interests include Full-stack Web Development, Backend System Design, RESTful 
 
 <a href="https://github.com/NguyenVietQuan2004/booking-repair">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenvietquan2004&repo=booking-repair&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVietQuan2004&repo=booking-repair&theme=radical" />
 </a>    
 <a href="https://github.com/NguyenVietQuan2004/booking-repair-be">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenvietquan2004&repo=booking-repair-be&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVietQuan2004&repo=booking-repair-be&theme=merko" />
 </a>
- 
