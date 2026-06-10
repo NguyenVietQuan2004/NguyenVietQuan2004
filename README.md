@@ -10,6 +10,14 @@ My interests include Full-stack Web Development, Backend System Design, RESTful 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/quan-nguyen-viet-14b393318/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/NguyenVietQuan2004)
 
+## 🛠 Tech Stack
+
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS, Shadcn/ui  
+**Backend:** Java, Spring Boot, Node.js, Express.js  
+**Database:** MySQL, MongoDB  
+**DevOps:** Docker, GitHub Actions, CI/CD  
+**Tools:** Git, Postman, Swagger, WebSocket
+
 <!--
 ![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vietnh1009&show_icons=true&theme=tokyonight&hide=contribs,prs,issues) -->
 
@@ -67,12 +75,33 @@ My interests include Full-stack Web Development, Backend System Design, RESTful 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVietQuan2004&repo=e-commerce-fe&theme=synthwave" />
 </a>
 
-<a href="https://github.com/NguyenVietQuan2004/duc-huy-neo">
+<a href="https://github.com/NguyenVietQuan2004/duchuy-Accounting">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVietQuan2004&repo=duc-huy-neo&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVietQuan2004&repo=duchuy-Accounting&theme=highcontrast" />
 </a>
 
 <a href="https://github.com/NguyenVietQuan2004/duc-huy-neo">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVietQuan2004&repo=duc-huy-neo&theme=dracula" />
 </a>
+
+## 🎮 Interests
+
+- Reading books to improve knowledge and expand thinking
+- Playing badminton for physical health and relaxation
+- Gym training for discipline and fitness
+
+## 🚀 What I Do
+
+- Build full-stack web applications from scratch
+- Design RESTful APIs and backend systems
+- Develop scalable and maintainable architectures
+- Deploy applications using Docker and CI/CD pipelines
+
+## 🎯 Focus Areas
+
+- Full-stack Web Development
+- Backend System Design
+- API Architecture (RESTful APIs)
+- Real-time Applications (WebSocket)
+- Deployment & DevOps basics
