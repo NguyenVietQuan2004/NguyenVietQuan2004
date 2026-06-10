@@ -21,3 +21,23 @@ My interests include Full-stack Web Development, Backend System Design, RESTful 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVietQuan2004&repo=booking-repair-be&theme=merko" />
 </a>
+
+<a href="https://github.com/NguyenVietQuan2004/duc-huy-admin-sua-xe">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVietQuan2004&repo=duc-huy-admin-sua-xe&theme=merko" />
+</a>
+
+<a href="https://github.com/NguyenVietQuan2004/duc-huy-user-sua-xe">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVietQuan2004&repo=duc-huy-user-sua-xe&theme=merko" />
+</a>
+
+<a href="https://github.com/NguyenVietQuan2004/luan_van_front_end">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVietQuan2004&repo=luan_van_front_end&theme=merko" />
+</a>
+
+<a href="https://github.com/NguyenVietQuan2004/luan_van_back_end">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenVietQuan2004&repo=luan_van_back_end&theme=merko" />
+</a>
